@@ -1,4 +1,4 @@
-package com.riva.androidviewgroup;
+package com.sagol.androidviewgroup;
 
 import org.junit.Test;
 
